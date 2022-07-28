@@ -7,3 +7,5 @@
 그래서 이곳에는 해외의 다양한 코드들을 다른 한국 개발자분들이 쉽게 사용하실수 있도록 주석과 간단한 코드 예제를 올리며 보관할 예정입니다.
 
 팔로잉 해주시고 편하게 사용하시길 바래요!
+
+Hello! This is Choi Sun, a developer of Hafen and Tritech in South Korea!

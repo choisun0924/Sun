@@ -1,3 +1,5 @@
+Hello! This is Choi Sun, a developer of Hafen and Tritech in South Korea!
+
 안녕하세요. 한국인 개발자 최선입니다.
 
 저는 주로 Python으로 개발을 하며 인공지능에 관심을 갖고 있습니다.
@@ -8,4 +10,4 @@
 
 팔로잉 해주시고 편하게 사용하시길 바래요!
 
-Hello! This is Choi Sun, a developer of Hafen and Tritech in South Korea!
+
